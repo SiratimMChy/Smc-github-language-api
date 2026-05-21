@@ -1,4 +1,4 @@
-﻿# Smc-Git-language-api
+﻿# Smc-github-language-api
 
 Smc-language-api is a lightweight Node.js service that generates dynamic GitHub language statistics as an SVG visualization.
 
